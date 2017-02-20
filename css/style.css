@@ -1,0 +1,100 @@
+* {
+    border: 1px solid cyan;
+    /*font-family: 'Merriweather', serif;*/
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+}
+
+.main-container{
+    max-width: 800px;
+    /*min-width: 320px;*/
+	margin-left:200px;
+}
+
+.menu-items{
+    margin-left: 18px;
+    font-weight: 700;
+    color: #333333;
+    
+}
+
+
+.menu-items:active {
+    border-bottom: 2px solid #333333;
+}
+
+
+
+.nav-bar{
+    padding-top: 27px;
+
+}
+
+.logotype-container{
+	padding: 0px;
+}
+
+.logotype{
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.header-container{
+    margin: 40px 0px;
+}
+
+.intro-container{
+    margin: 40px 0px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.categories-container{
+    padding: 20px 0px;
+}
+
+.featured-project-img{
+
+    /*padding-bottom: 30px;*/
+    padding: 0 !important;
+    margin: 0 !important;
+
+
+}
+
+.categories-list{
+	padding: 0px 20px 0px 0px;
+    /*color: #4a4a4a;*/
+    font-weight: 700;
+    color: #333333;
+}
+
+.footer-container {
+    padding-top: 20px;
+    padding-bottom: 60px;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.footer-items {
+    padding-top: 20px;
+}
+
+/*Other styles*/
+
+.nopadding{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.active-link {
+
+
+}
+
+.keep-down {
+    padding: 0 !important;
+    margin: 0 !important;
+}
